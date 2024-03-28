@@ -10,6 +10,8 @@ This project is a dynamic web application that utilizes the Travello frontend te
 - User authentication and form validation
 ## ScreenShots
 ![Alternative Text](https://github.com/Saicharan5741/backend-for-travello-template-using-django/blob/master/djangodemo/screenshots/Screenshot%202024-03-28%20143502.png)
+![Alt](https://github.com/Saicharan5741/backend-for-travello-template-using-django/blob/master/djangodemo/screenshots/Screenshot%202024-03-28%20143719.png)
+![Alt](https://github.com/Saicharan5741/backend-for-travello-template-using-django/blob/master/djangodemo/screenshots/Screenshot%202024-03-28%20143734.png)
 
 
 ## Credits
